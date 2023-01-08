@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Alternating Characters" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Beautiful Binary String" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Caesar Cipher" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CamelCase" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Gemstones" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Mars Exploration" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/String Construction" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Super Reduced String" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/The Love-Letter Mystery" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Two Characters" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Weighted Uniform Strings" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

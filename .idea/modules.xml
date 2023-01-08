@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/10 Days of Statistics/10 Days of Statistics.iml" filepath="$PROJECT_DIR$/10 Days of Statistics/10 Days of Statistics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/30 Days of Code/30 Days of Code.iml" filepath="$PROJECT_DIR$/30 Days of Code/30 Days of Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Advanced/Advanced.iml" filepath="$PROJECT_DIR$/Java/Advanced/Advanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cracking the Coding Interview/Algorithms/Algorithms.iml" filepath="$PROJECT_DIR$/Cracking the Coding Interview/Algorithms/Algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data Structures/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Data Structures/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/General Programming/Basic Programming/Basic Programming.iml" filepath="$PROJECT_DIR$/General Programming/Basic Programming/Basic Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/BigNumber/BigNumber.iml" filepath="$PROJECT_DIR$/Java/BigNumber/BigNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Bit Manipulation/Bit Manipulation.iml" filepath="$PROJECT_DIR$/Algorithms/Bit Manipulation/Bit Manipulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cracking the Coding Interview/Data Structures/Data Structures.iml" filepath="$PROJECT_DIR$/Cracking the Coding Interview/Data Structures/Data Structures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Data Structures/Data Structures1.iml" filepath="$PROJECT_DIR$/Java/Data Structures/Data Structures1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Dynamic Programming/Dynamic Programming.iml" filepath="$PROJECT_DIR$/Algorithms/Dynamic Programming/Dynamic Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Exception Handling/Exception Handling.iml" filepath="$PROJECT_DIR$/Java/Exception Handling/Exception Handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Graph Theory/Graph Theory.iml" filepath="$PROJECT_DIR$/Algorithms/Graph Theory/Graph Theory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Greedy/Greedy.iml" filepath="$PROJECT_DIR$/Algorithms/Greedy/Greedy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data Structures/Heaps/Heaps.iml" filepath="$PROJECT_DIR$/Data Structures/Heaps/Heaps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Implementation/Implementation.iml" filepath="$PROJECT_DIR$/Implementation/Implementation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Introduction/Introduction.iml" filepath="$PROJECT_DIR$/Java/Introduction/Introduction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data Structures/Linked Lists/Linked Lists.iml" filepath="$PROJECT_DIR$/Data Structures/Linked Lists/Linked Lists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Object Oriented Programming/Object Oriented Programming.iml" filepath="$PROJECT_DIR$/Java/Object Oriented Programming/Object Oriented Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/General Programming/Object-oriented Programming/Object-oriented Programming.iml" filepath="$PROJECT_DIR$/General Programming/Object-oriented Programming/Object-oriented Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data Structures/Queues/Queues.iml" filepath="$PROJECT_DIR$/Data Structures/Queues/Queues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/General Programming/RegEx/RegEx.iml" filepath="$PROJECT_DIR$/General Programming/RegEx/RegEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Search/Search.iml" filepath="$PROJECT_DIR$/Algorithms/Search/Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Sorting/Sorting.iml" filepath="$PROJECT_DIR$/Algorithms/Sorting/Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data Structures/Stacks/Stacks.iml" filepath="$PROJECT_DIR$/Data Structures/Stacks/Stacks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Strings/Strings.iml" filepath="$PROJECT_DIR$/Algorithms/Strings/Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Strings/Strings1.iml" filepath="$PROJECT_DIR$/Java/Strings/Strings1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cracking the Coding Interview/Techniques, Concepts/Techniques, Concepts.iml" filepath="$PROJECT_DIR$/Cracking the Coding Interview/Techniques, Concepts/Techniques, Concepts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data Structures/Trees/Trees.iml" filepath="$PROJECT_DIR$/Data Structures/Trees/Trees.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data Structures/Trie/Trie.iml" filepath="$PROJECT_DIR$/Data Structures/Trie/Trie.iml" />
+    </modules>
+  </component>
+</project>

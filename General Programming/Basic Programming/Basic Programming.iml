@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/A Very Big Sum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Angry Professor" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Append and Delete" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Apple and Orange" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Beautiful Days at the Movies" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Between Two Sets" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Birthday Cake Candles" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Birthday Chocolate" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bon Appetit" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Breaking the Records" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Cats and a Mouse" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Circular Array Rotation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Climbing the Leaderboard" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Compare the Triplets" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Counting Valleys" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Cut the sticks" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Designer PDF Viewer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Diagonal Difference" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Divisible Sum Pairs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Drawing Book" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Electronics Shop" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Equalize the Array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Extra Long Factorials" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Fair Rations" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Find Digits" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Flatland Space Stations" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Grading Students" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Jumping on the Clouds" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Jumping on the Clouds - Revisited" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Kangaroo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Library Fine" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Manasa and Stones" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Migratory Birds" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Mini-Max Sum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Minimum Distances" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Picking Numbers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Plus Minus" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Repeated String" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Save the Prisoner!" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Sequence Equation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Sherlock and Squares" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Simple Array Sum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Sock Merchant" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Solve Me First" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Staircase" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Taum and B'day" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/The Hurdle Race" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Time Conversion" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Utopian Tree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Viral Advertising" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

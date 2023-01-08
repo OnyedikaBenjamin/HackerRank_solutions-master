@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Day 0 - Mean, Median, and Mode" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 0 - Weighted Mean" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 1 - Interquartile Range" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 1 - Quartiles" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 1 - Standard Deviation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 4 - Binomial Distribution I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 4 - Binomial Distribution II" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 4 - Geometric Distribution I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 4 - Geometric Distribution II" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 5 - Normal Distribution I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 5 - Normal Distribution II" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 5 - Poisson Distribution I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 5 - Poisson Distribution II" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 6 - The Central Limit Theorem I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 6 - The Central Limit Theorem II" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 6 - The Central Limit Theorem III" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 7 - Pearson Correlation Coefficient I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 7 - Spearman's Rank Correlation Coefficient" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 8 - Least Square Regression Rate" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 9 - Multiple Linear Regression" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

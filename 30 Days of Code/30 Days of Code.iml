@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Day 00 - Hello, World" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 01 - Data Types" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 02 - Operators" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 03 - Intro to Conditional Statements" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 04 - Class vs. Instance" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 05 - Loops" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 06 - Let's Review" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 07 - Arrays" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 08 - Dictionaries and Maps" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 09 - Recursion" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 10 - Binary Numbers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 11 - 2D Arrays" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 12 - Inheritance" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 13 - Abstract Classes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 14 - Scope" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 15 - Linked List" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 16 - Exceptions - String to Integer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 17 - More Exceptions" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 18 - Queues and Stacks" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 19 - Interfaces" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 20 - Sorting" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 21 - Generics" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 22 - Binary Search Trees" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 23 - BST Level-Order Traversal" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 24 - More Linked Lists" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 25 - Running Time and Complexity" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 26 - Nested Logic" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 27 - Testing" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
